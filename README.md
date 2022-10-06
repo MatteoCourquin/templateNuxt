@@ -1,4 +1,4 @@
-# TicTacToe
+# Template NuxtJs
 
 ## Build Setup
 

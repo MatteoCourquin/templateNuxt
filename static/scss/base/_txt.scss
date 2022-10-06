@@ -1,0 +1,19 @@
+
+h1, h2, h3, h4, h5, h6, p, span{
+  font-family: $font-roboto-black;
+  color: $color-white;
+}
+
+h1{
+  font-size: clamp(2rem, 4.5vw, 5rem);
+  line-height: clamp(2rem, 4.5vw, 5rem);
+}
+h2{
+  font-size: clamp(1.5rem, 3vw, 2.5rem);
+  line-height: clamp(1.5rem, 3vw, 2.5rem);
+}
+
+p{
+  font-size: 1.6em;
+  line-height: 1.6em;
+}
